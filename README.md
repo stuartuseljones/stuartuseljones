@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **stuartuseljones@gmail.com**
 
-- ⚡ Fun fact **I'm a husband, dad to 5 kids. Are you selling your sprinter van?**
+- ⚡ Fun fact **I'm a husband, dad to 5 kids. Are you selling your sprinter van? 🚐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
