@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋! I'm Stuart!</h1>
 
-<h3 align="center">A passionate frontend developer on the west coast.</h3>
+<h3 align="center">A passionate Software Engineer on the west coast.</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/stuartuseljones](https://github.com/stuartuseljones)
