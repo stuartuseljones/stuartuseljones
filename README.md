@@ -3,10 +3,6 @@
 <h3 align="center">A passionate frontend developer on the west coast.</h3>
 
 
-- 🔭 I’m currently working on **my Dad's Dying Plants site**
-
-- 🌱 I’m currently learning **JavaScript!**
-
 - 👨‍💻 All of my projects are available at [https://github.com/stuartuseljones](https://github.com/stuartuseljones)
 
 - 💬 Ask me if **any of my plants are still alive...**
